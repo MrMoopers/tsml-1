@@ -16,6 +16,7 @@ public class App {
             train = new Instances(reader);
 
             int a = 0;
+            
         } catch (Exception e) {
             System.out.println("Exception caught: " + e);
         }
